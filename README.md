@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm bas1csyntax</h1>
 <h3 align="center">A passionate frontend developer from Australia</h3>
 
-- Current Project: [SchoolisFun](github.com/schoolisfunxyz)
+- Current Project: [SchoolisFun](https://github.com/schoolisfunxyz)
 
 - Side Hobby: **RRLProxy**
 
