@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm bas1csyntax</h1>
-<h3 align="center">A passionate frontend developer from Australia</h3>
+<h3 align="center">A passionate frontend developer from the United States</h3>
 
 - Current Project: [SchoolisFun](https://github.com/schoolisfunxyz)
 
-- Side Hobby: **RRLProxy**
+- Side Hobby: **MelatoninOS**
 
 - Contact me! **via github.com/schoolisfunxyz**
 
